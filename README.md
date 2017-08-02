@@ -1,5 +1,6 @@
 # opener-docker-language-identifier
 
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/cwolff/opener-docker-language-identifier.svg)](https://hub.docker.com/r/cwolff/opener-docker-language-identifier/)
 
 Dockerfile for OpeNER language identifier service.
