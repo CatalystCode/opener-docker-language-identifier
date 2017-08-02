@@ -1,5 +1,7 @@
 # opener-docker-language-identifier
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/cwolff/opener-docker-language-identifier.svg)](https://hub.docker.com/r/cwolff/opener-docker-language-identifier/)
+
 Dockerfile for OpeNER language identifier service.
 
 Run and test locally:
